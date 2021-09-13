@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-def checkout(String url) {
+def call(String url) {
   echo "Hello ${url}"
 
 }
